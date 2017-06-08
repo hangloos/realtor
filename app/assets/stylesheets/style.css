@@ -43,6 +43,13 @@
   background-color: #506c64;
 }
 
+.footerSite {
+    position: fixed;
+    height: 100px;
+    bottom: 0;
+    width: 100%;
+}
+
 /*.about  {
   background-image: url(<%= asset_path 'road.jpg' %>)
 }
@@ -63,28 +70,28 @@ ul.social-network li {
 
 
 /* footer social icons */
-.social-network a.icoRss:hover {
+.social-network a.icoRss{
   background-color: #F56505;
 }
-.social-network a.icoFacebook:hover {
+.social-network a.icoFacebook{
   background-color:#3B5998;
 }
-.social-network a.icoTwitter:hover {
+.social-network a.icoTwitter{
   background-color:#33ccff;
 }
-.social-network a.icoGoogle:hover {
+.social-network a.icoGoogle{
   background-color:#BD3518;
 }
-.social-network a.icoLinkedin:hover {
+.social-network a.icoLinkedin {
   background-color:#007bb7;
 }
-.social-network a.icoYelp:hover {
+.social-network a.icoYelp{
   background-color:#c41200;
 }
-.social-network a.icoMedium:hover{
+.social-network a.icoMedium{
   background-color: #3c9262; 
 }
-.social-network a.icoInstagram:hover {
+.social-network a.icoInstagram {
   background: #d6249f;
   background: radial-gradient(circle at 30% 107%, #fdf497 0%, #fdf497 5%, #fd5949 45%,#d6249f 60%,#285AEB 90%);
 }
@@ -135,5 +142,5 @@ a.socialIcon:hover, .socialHoverClass {
 }
 
 a.socialLink {
- background-color: #D3D3D3;   
+ background-color: #6ac6f0;   
 }
