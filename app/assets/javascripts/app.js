@@ -19,11 +19,11 @@
     templateUrl: 'pages/about.html'
   })
 
-  .state({
-    name: 'blog',
-    url: '/blog',
-    templateUrl: 'pages/blog.html'
-  })
+  // .state({
+  //   name: 'blog',
+  //   url: '/blog',
+  //   templateUrl: 'pages/blog.html'
+  // })
 
   .state({
     name: 'contact',
