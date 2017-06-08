@@ -1,6 +1,7 @@
 {
   "vendor": {
     "name": "bower-rails generated vendor assets",
+    "directory": "vendor/assets/bower_components",
     "dependencies": {
       "angular": "v1.5.8",
       "angular-ui-router": "latest",
