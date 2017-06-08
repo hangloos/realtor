@@ -3,8 +3,10 @@
 }
 */
 
+/*https://coolors.co/212222-506c64-6ac6f0-66cc33-ffffff
+*/
 /*header*/
-#navbar{
+#navbar, #bs-example-navbar-collapse-1{
   background-color: #506c64;
 }
 
@@ -43,8 +45,16 @@
   background-color: #506c64;
 }
 
-.homeSection{
+.aboutSection{
   background-image: url('IMG_4857.JPG')
+}
+
+.homeSection  {
+  background-image: url('IMG_4892.JPG')
+}
+
+.valuation  {
+  background-image: url('IMG_4883.JPG')
 }
 #contact{
   background:#333333;
