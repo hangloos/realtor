@@ -51,4 +51,12 @@
    
 });
 
+
+    angular
+      .module('codyorr')
+      .controller('HomeController', HomeController)
+      function HomeController() {
+        
+      }
+
   }())

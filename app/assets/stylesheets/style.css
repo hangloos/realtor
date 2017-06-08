@@ -1,0 +1,19 @@
+body  {
+  font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", Charcoal, "Helvetica Inserat", "Bitstream Vera Sans Bold", "Arial Black", "sans serif";
+}
+
+#navbar{
+  background-color: #506c64;
+}
+
+#headers{
+  color: white;
+}
+
+#headers:hover, #headers:focus{
+  color: #212222;
+}
+
+#brandName {
+  color: #6ac6f0;
+}
