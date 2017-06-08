@@ -52,11 +52,11 @@
 });
 
 
-    angular
-      .module('codyorr')
-      .controller('HomeController', HomeController)
-      function HomeController() {
+    // angular
+    //   .module('codyorr')
+    //   .controller('HomeController', HomeController)
+    //   function HomeController() {
         
-      }
+    //   }
 
   }())
