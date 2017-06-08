@@ -47,8 +47,18 @@
 }
 
 .aboutSection{
-  background-image: url('IMG_4857.JPG')
+  background-image: url('IMG_4857.JPG');
+  height:73vh;
 }
+
+@media only screen and (max-width: 700px) {
+  .aboutSection{
+    height:110vh;
+  }
+
+}
+
+
 
 .homeSection  {
   background-image: url('IMG_4892.JPG')
