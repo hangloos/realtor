@@ -6,8 +6,9 @@
 /*https://coolors.co/212222-506c64-6ac6f0-66cc33-ffffff
 */
 /*header*/
-#navbar, #bs-example-navbar-collapse-1{
+#navbar{
   background-color: #506c64;
+    margin-bottom: 0;
 }
 
 #headers{
