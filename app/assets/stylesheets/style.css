@@ -43,13 +43,6 @@
   background-color: #506c64;
 }
 
-.footerSite {
-    position: fixed;
-    height: 100px;
-    bottom: 0;
-    width: 100%;
-}
-
 /*.about  {
   background-image: url(<%= asset_path 'road.jpg' %>)
 }
