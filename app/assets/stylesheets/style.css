@@ -43,11 +43,14 @@
   background-color: #506c64;
 }
 
-/*.about  {
-  background-image: url(<%= asset_path 'road.jpg' %>)
+.homeSection{
+  background-image: url('IMG_4857.JPG')
 }
-*/
-/*background-image: url(<%= asset_path 'image.png' %>)*/
+#contact{
+  background:#333333;
+  color:#f4f4f4;
+  padding-bottom:80px;
+}
 
 /* footer social icons */
 ul.social-network {
